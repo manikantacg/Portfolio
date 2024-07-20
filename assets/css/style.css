@@ -786,7 +786,7 @@ main {
 }
 .timeline-list1 {
   font-size: var(--fs-6);
-  margin-left: 25px;
+  margin-left: 45px;
 }
 
 .timeline-item { position: relative; }
